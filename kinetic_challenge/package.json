@@ -1,0 +1,12 @@
+{
+  "name": "kinetic_challenge",
+  "version": "1.0.0",
+  "description": "Kinetic Challenge resolved with NodeJs Script",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "keywords": [],
+  "author": "Matias Masciotta dev",
+  "license": "ISC"
+}
